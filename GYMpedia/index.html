@@ -10,11 +10,18 @@
 			content="useful information for training"
 		/>
 		<meta name="keywords" lang="en" content="gympedia, gym, muscles" />
+		<link rel="stylesheet" href="style.css" />
+
+		<style>
+			td {
+				width: 30%;
+			}
+		</style>
 	</head>
 	<body
-		bgcolor="#252525"
+		bgcolor="#252422"
 		,
-		text="#F3F3F3"
+		text="#E5E5E5"
 		,
 		alink="#FF5B27"
 		,
@@ -22,20 +29,54 @@
 		,
 		vlink="#C60000"
 	>
-		<h1>Головне меню</h1>
-		<h3>Оберіть пункт:</h3>
-		<br />
+		<div class="pos">
+			<div class="menu">
+				<a href="breast.html"><img src="media/main_1.png" width="200" /></a>
+				<a href="back.html"><img src="media/main_2.png" width="200" /></a>
+				<a href="shoulders.html"><img src="media/main_3.png" width="200" /></a>
+			</div>
+		</div>
 
-		<img src="media/db.png" align="left" hspace="5pt" width="15" />
-		<a href="back.html"><title>"Для переходу натискай сюди"</title>Спина</a
-		><br />
+		<img src="media/body_map.png" usemap="#body_map" />
+		<map name="body_map">
+			<area
+				shape="poly"
+				coords="202,141, 246,132, 295,173, 247,213, 201,203, 166,215, 108,175, 156,133"
+				href="breast.html"
+				alt="Груди"
+			/>
+			<area
+				shape="poly"
+				coords="84,210, 76,167, 96,130, 119,125, 125,124, 156,136"
+				href="shoulders.html"
+				alt="Плечі"
+			/>
+			<area
+				shape="poly"
+				coords="318,208, 330,175, 305,126, 286,121, 285,135"
+				href="shoulders.html"
+				alt="Плечі"
+			/>
+			<area
+				shape="poly"
+				coords="570,361, 610,312, 648,240, 665,173, 588,215, 570,252, 545,213, 478,173, 483,221, 528,311"
+				href="back.html"
+				alt="Найширші"
+			/>
+		</map>
 
-		<img src="media/db.png" align="left" hspace="5pt" width="15" />
-		<a href="breast.html"><title>"Для переходу натискай сюди"</title>Груди</a
-		><br />
-
-		<img src="media/db.png" align="left" hspace="5pt" width="15" />
-		<a href="shoulders.html"><title>"Для переходу натискай сюди"</title>Плечі</a
-		><br />
+		<table width="100%">
+			<caption>
+				Персонажі, які надихають на покращення свого тіла
+			</caption>
+			<tbody>
+				<tr>
+					<td align="center"><img src="media/Arny.png" height="300" /></td>
+					<td align="center"><img src="media/Baki.png" height="300" /></td>
+					<td align="center"><img src="media/Cbum.png" height="300" /></td>
+				</tr>
+			</tbody>
+		</table>
+		<hr size="5" width="100%" />
 	</body>
 </html>

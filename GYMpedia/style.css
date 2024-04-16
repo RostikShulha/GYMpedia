@@ -1,0 +1,12 @@
+.pos {
+	padding-top: 240px;
+	padding-bottom: 450px;
+	width: 700px;
+	margin: 0 auto;
+	height: auto;
+}
+.menu {
+	display: flex;
+	justify-content: space-between;
+	width: 700px;
+}
