@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80px"
+   height="80px"
+   viewBox="0 -4.5 20 20"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="arrow.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.05"
+     inkscape:cx="36.069652"
+     inkscape:cy="41.393035"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-9"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page-1" />
+  <title
+     id="title1">arrow_down [#338]</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(1.881301,0,0,1.9570782,-7.8907513,-7.0701248)">
+    <g
+       id="Dribbble-Light-Preview"
+       transform="translate(-220,-6684)"
+       fill="#f3ece4" />
+    <g
+       id="icons"
+       transform="matrix(0.99316972,0,0,0.99178438,-162.85095,-6470.2665)">
+      <path
+         d="m 174.90501,6534.156 c -0.7805,1.1253 -2.04671,1.1253 -2.82721,0 l -3.32976,-4.2965 c -0.90475,-1.036 0.35156,-2.3726 1.5066,-0.9803 l 2.57032,3.1827 c 0.39075,0.5625 1.02336,0.5625 1.41411,0 l 2.72976,-3.3313 c 0.73977,-0.9464 2.24175,-0.3338 1.51228,0.8223 z"
+         id="arrow_down-[#338]"
+         sodipodi:nodetypes="ccccccccc"
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:1.17891" />
+    </g>
+  </g>
+</svg>
