@@ -192,6 +192,18 @@ header div nav ul li ul {
 	box-shadow: 0px 4px 25px -9px rgba(0, 0, 0, 1);
 }
 
+.background_pit {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	padding: 50px;
+	background-color: rgba(44, 44, 44, 0.6);
+	border-radius: 20px;
+	overflow: hidden;
+	justify-content: space-between;
+	box-shadow: 0px 4px 25px -9px rgba(0, 0, 0, 1);
+}
+
 /* Заголовок "Питання - відповідь" */
 .baza {
 	display: flex;
@@ -446,6 +458,24 @@ header div nav ul li ul {
 .exercise__ico {
 	padding-right: 10px;
 	width: 32px;
+}
+
+.answer_button {
+	margin-top: 30px;
+	padding: 20px;
+	background-color: rgb(73, 73, 73);
+	border-radius: 10px;
+}
+
+.answer_text {
+	border-radius: 4px;
+	background-color: rgba(92, 92, 92, 0.6);
+	color: white;
+}
+
+.answer_bottom {
+	border-radius: 7px;
+	padding: 10px;
 }
 
 /* Футер */
